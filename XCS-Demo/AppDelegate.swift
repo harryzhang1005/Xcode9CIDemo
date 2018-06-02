@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  XCS-Demo
 //
-//  Created by Shashikant Jagtap on 07/06/2017.
-//  Copyright © 2017 Shashikant Jagtap. All rights reserved.
+//  Created by Harry Zhang on 07/06/2017.
+//  Copyright © 2017 Harry Zhang. All rights reserved.
 //
 
 import UIKit
